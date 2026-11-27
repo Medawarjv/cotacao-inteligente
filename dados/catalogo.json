@@ -1,0 +1,146 @@
+[
+ {
+  "codigo": "P01",
+  "nome": "Tomate pelado italiano",
+  "unidade": "kg",
+  "consumo_semanal": 30,
+  "estoque": 8,
+  "ultimo_preco": 16.5
+ },
+ {
+  "codigo": "P02",
+  "nome": "Muçarela de búfala",
+  "unidade": "kg",
+  "consumo_semanal": 12,
+  "estoque": 3,
+  "ultimo_preco": 78.0
+ },
+ {
+  "codigo": "P03",
+  "nome": "Parmesão Grana Padano",
+  "unidade": "kg",
+  "consumo_semanal": 6,
+  "estoque": 2,
+  "ultimo_preco": 135.0
+ },
+ {
+  "codigo": "P04",
+  "nome": "Farinha de trigo tipo 00",
+  "unidade": "kg",
+  "consumo_semanal": 50,
+  "estoque": 15,
+  "ultimo_preco": 9.8
+ },
+ {
+  "codigo": "P05",
+  "nome": "Azeite extravirgem",
+  "unidade": "L",
+  "consumo_semanal": 10,
+  "estoque": 4,
+  "ultimo_preco": 52.0
+ },
+ {
+  "codigo": "P06",
+  "nome": "Guanciale",
+  "unidade": "kg",
+  "consumo_semanal": 4,
+  "estoque": 1,
+  "ultimo_preco": 145.0
+ },
+ {
+  "codigo": "P07",
+  "nome": "Filé mignon limpo",
+  "unidade": "kg",
+  "consumo_semanal": 15,
+  "estoque": 4,
+  "ultimo_preco": 89.0
+ },
+ {
+  "codigo": "P08",
+  "nome": "Camarão VG limpo",
+  "unidade": "kg",
+  "consumo_semanal": 8,
+  "estoque": 2,
+  "ultimo_preco": 115.0
+ },
+ {
+  "codigo": "P09",
+  "nome": "Rúcula",
+  "unidade": "maço",
+  "consumo_semanal": 40,
+  "estoque": 10,
+  "ultimo_preco": 3.5
+ },
+ {
+  "codigo": "P10",
+  "nome": "Manjericão",
+  "unidade": "maço",
+  "consumo_semanal": 30,
+  "estoque": 5,
+  "ultimo_preco": 4.0
+ },
+ {
+  "codigo": "P11",
+  "nome": "Limão tahiti",
+  "unidade": "kg",
+  "consumo_semanal": 10,
+  "estoque": 3,
+  "ultimo_preco": 6.0
+ },
+ {
+  "codigo": "P12",
+  "nome": "Cebola",
+  "unidade": "kg",
+  "consumo_semanal": 20,
+  "estoque": 6,
+  "ultimo_preco": 5.2
+ },
+ {
+  "codigo": "P13",
+  "nome": "Alho descascado",
+  "unidade": "kg",
+  "consumo_semanal": 4,
+  "estoque": 1,
+  "ultimo_preco": 32.0
+ },
+ {
+  "codigo": "P14",
+  "nome": "Creme de leite fresco",
+  "unidade": "L",
+  "consumo_semanal": 12,
+  "estoque": 4,
+  "ultimo_preco": 24.0
+ },
+ {
+  "codigo": "P15",
+  "nome": "Ovos",
+  "unidade": "un",
+  "consumo_semanal": 360,
+  "estoque": 90,
+  "ultimo_preco": 0.85
+ },
+ {
+  "codigo": "P16",
+  "nome": "Manteiga sem sal",
+  "unidade": "kg",
+  "consumo_semanal": 6,
+  "estoque": 2,
+  "ultimo_preco": 58.0
+ },
+ {
+  "codigo": "P17",
+  "nome": "Batata",
+  "unidade": "kg",
+  "consumo_semanal": 25,
+  "estoque": 8,
+  "ultimo_preco": 6.5
+ },
+ {
+  "codigo": "P18",
+  "nome": "Água mineral sem gás 500 ml",
+  "unidade": "un",
+  "consumo_semanal": 240,
+  "estoque": 60,
+  "ultimo_preco": 1.4
+ }
+]

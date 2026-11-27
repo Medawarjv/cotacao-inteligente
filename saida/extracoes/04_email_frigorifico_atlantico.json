@@ -1,0 +1,56 @@
+{
+ "chave": "b1457f543b262753",
+ "arquivo": "04_email_frigorifico_atlantico.txt",
+ "saida": {
+  "fornecedor": "Frigorífico Atlântico",
+  "alertas": [],
+  "condicoes": {
+   "trechos": [
+    "Para pedidos acima de R$ 2.000,00 concedemos 5% de desconto no total.",
+    "Preços sujeitos a variação, validade de 48h.",
+    "Faturamento 14 dias."
+   ],
+   "pedido_minimo": null,
+   "frete_valor": null,
+   "frete_gratis_acima_de": null,
+   "desconto_percentual": 5,
+   "desconto_acima_de": 2000,
+   "prazo_pagamento": "Faturamento 14 dias",
+   "validade": "48h",
+   "entrega": null
+  },
+  "itens": [
+   {
+    "texto_original": "Filé mignon limpo (sem cordão): R$ 92,50/kg",
+    "codigo_catalogo": "P07",
+    "disponivel": true,
+    "preco": 92.5,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "Camarão VG limpo congelado, caixa 2 kg: R$ 219,00 a caixa",
+    "codigo_catalogo": "P08",
+    "disponivel": true,
+    "preco": 219,
+    "preco_refere_a": "embalagem",
+    "embalagem": "caixa 2 kg",
+    "quantidade_na_embalagem": 2,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   }
+  ]
+ },
+ "meta": {
+  "segundos": 14.3,
+  "custo_usd": 0.0279322,
+  "tokens_entrada": 9480,
+  "tokens_saida": 1577,
+  "motor": "claude-cli/sonnet"
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "chave": "3072058f8cbf764b",
+ "arquivo": "05_audio_transcrito_hortifruti_sol.txt",
+ "saida": {
+  "fornecedor": "Hortifruti Sol",
+  "alertas": [],
+  "condicoes": {
+   "trechos": [
+    "Não tem pedido mínimo não, o frete é vinte e cinco reais.",
+    "Pode mandar o pedido até quinta, beleza?"
+   ],
+   "pedido_minimo": null,
+   "frete_valor": 25,
+   "frete_gratis_acima_de": null,
+   "desconto_percentual": null,
+   "desconto_acima_de": null,
+   "prazo_pagamento": null,
+   "validade": "até quinta",
+   "entrega": null
+  },
+  "itens": [
+   {
+    "texto_original": "limão tá quatro e cinquenta o quilo",
+    "codigo_catalogo": "P11",
+    "disponivel": true,
+    "preco": 4.5,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "cebola cinco reais o quilo",
+    "codigo_catalogo": "P12",
+    "disponivel": true,
+    "preco": 5,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "batata seis e vinte o quilo",
+    "codigo_catalogo": "P17",
+    "disponivel": true,
+    "preco": 6.2,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "Rúcula tô fazendo três e cinquenta o maço",
+    "codigo_catalogo": "P09",
+    "disponivel": true,
+    "preco": 3.5,
+    "preco_refere_a": "unidade",
+    "embalagem": "maço",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "maço",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "Alho descascado tá trinta e dois o quilo",
+    "codigo_catalogo": "P13",
+    "disponivel": true,
+    "preco": 32,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "Manjericão acabou, só semana que vem",
+    "codigo_catalogo": "P10",
+    "disponivel": false,
+    "preco": null,
+    "preco_refere_a": "unidade",
+    "embalagem": "maço",
+    "quantidade_na_embalagem": null,
+    "unidade_da_quantidade": null,
+    "confianca": "alta",
+    "observacao": "Fornecedor informou que está em falta, retorna na próxima semana"
+   },
+   {
+    "texto_original": "Tomate pelado eu não trabalho",
+    "codigo_catalogo": "P01",
+    "disponivel": false,
+    "preco": null,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg",
+    "quantidade_na_embalagem": null,
+    "unidade_da_quantidade": null,
+    "confianca": "alta",
+    "observacao": "Fornecedor não trabalha com este item"
+   }
+  ]
+ },
+ "meta": {
+  "segundos": 30.8,
+  "custo_usd": 0.05405839999999999,
+  "tokens_entrada": 10791,
+  "tokens_saida": 3677,
+  "motor": "claude-cli/sonnet"
+ }
+}

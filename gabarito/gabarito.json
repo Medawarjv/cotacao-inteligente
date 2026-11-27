@@ -1,0 +1,91 @@
+{
+ "01_whatsapp_hortifruti_bom_preco.txt": {
+  "fornecedor": "Hortifruti Bom Preço",
+  "pedido_minimo": 300,
+  "frete": 0,
+  "frete_gratis_acima_de": null,
+  "desconto_percentual": null,
+  "desconto_acima_de": null,
+  "itens": {
+   "P09": 3.2,
+   "P10": 3.8,
+   "P11": 4.9,
+   "P12": 4.45,
+   "P13": 29.9,
+   "P17": 5.4
+  },
+  "fora_catalogo": [
+   "tomate cereja"
+  ],
+  "revisao": []
+ },
+ "02_orcamento_laticinios_serra_fina.pdf": {
+  "fornecedor": "Laticínios Serra Fina",
+  "pedido_minimo": 500,
+  "frete": 40,
+  "frete_gratis_acima_de": 1000,
+  "desconto_percentual": null,
+  "desconto_acima_de": null,
+  "itens": {
+   "P02": 83.2,
+   "P03": 139.0,
+   "P14": 22.9,
+   "P16": 62.5,
+   "P15": 0.775
+  },
+  "fora_catalogo": [],
+  "revisao": []
+ },
+ "03_tabela_emporio_italia.xlsx": {
+  "fornecedor": "Empório Itália",
+  "pedido_minimo": 1500,
+  "frete": 0,
+  "frete_gratis_acima_de": null,
+  "desconto_percentual": null,
+  "desconto_acima_de": null,
+  "itens": {
+   "P01": 15.96,
+   "P04": 8.76,
+   "P05": 49.8,
+   "P06": 152.0,
+   "P03": 128.0,
+   "P02": 7.9,
+   "P18": 1.3
+  },
+  "fora_catalogo": [],
+  "revisao": [
+   "P02"
+  ]
+ },
+ "04_email_frigorifico_atlantico.txt": {
+  "fornecedor": "Frigorífico Atlântico",
+  "pedido_minimo": 0,
+  "frete": 0,
+  "frete_gratis_acima_de": null,
+  "desconto_percentual": 5,
+  "desconto_acima_de": 2000,
+  "itens": {
+   "P07": 92.5,
+   "P08": 109.5
+  },
+  "fora_catalogo": [],
+  "revisao": []
+ },
+ "05_audio_transcrito_hortifruti_sol.txt": {
+  "fornecedor": "Hortifruti Sol",
+  "pedido_minimo": 0,
+  "frete": 25,
+  "frete_gratis_acima_de": null,
+  "desconto_percentual": null,
+  "desconto_acima_de": null,
+  "itens": {
+   "P11": 4.5,
+   "P12": 5.0,
+   "P17": 6.2,
+   "P09": 3.5,
+   "P13": 32.0
+  },
+  "fora_catalogo": [],
+  "revisao": []
+ }
+}

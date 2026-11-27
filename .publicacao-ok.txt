@@ -1,0 +1,4 @@
+# Trechos revisados que o checar_publicacao.py pode aceitar (dados sintéticos ou públicos de propósito)
+00.000.000/0001-00
+comercial@frigorificoatlantico.example
+github.com/Medawarjv

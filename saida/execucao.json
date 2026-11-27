@@ -1,0 +1,104 @@
+{
+ "segundos_total": 0.1,
+ "log": [
+  {
+   "arquivo": "01_whatsapp_hortifruti_bom_preco.txt",
+   "fornecedor": "Hortifruti Bom Preço",
+   "motor": "claude-cli/sonnet",
+   "segundos": 16.5,
+   "tokens_entrada": 4287,
+   "tokens_saida": 1861,
+   "itens": 7,
+   "cache": true
+  },
+  {
+   "arquivo": "02_orcamento_laticinios_serra_fina.pdf",
+   "fornecedor": "Laticínios Serra Fina Ltda",
+   "motor": "claude-cli/sonnet",
+   "segundos": 15.9,
+   "tokens_entrada": 4419,
+   "tokens_saida": 1667,
+   "itens": 5,
+   "cache": true
+  },
+  {
+   "arquivo": "03_tabela_emporio_italia.xlsx",
+   "fornecedor": "Empório Itália Distribuidora",
+   "motor": "claude-cli/sonnet",
+   "segundos": 19.9,
+   "tokens_entrada": 4282,
+   "tokens_saida": 2332,
+   "itens": 7,
+   "cache": true
+  },
+  {
+   "arquivo": "04_email_frigorifico_atlantico.txt",
+   "fornecedor": "Frigorífico Atlântico",
+   "motor": "claude-cli/sonnet",
+   "segundos": 14.3,
+   "tokens_entrada": 9480,
+   "tokens_saida": 1577,
+   "itens": 2,
+   "cache": true
+  },
+  {
+   "arquivo": "05_audio_transcrito_hortifruti_sol.txt",
+   "fornecedor": "Hortifruti Sol",
+   "motor": "claude-cli/sonnet",
+   "segundos": 30.8,
+   "tokens_entrada": 10791,
+   "tokens_saida": 3677,
+   "itens": 7,
+   "cache": true
+  }
+ ],
+ "resumo": [
+  "Cotação da semana: 5 fornecedores, 28 itens lidos.",
+  "Pedido otimizado: R$ 6.164,20 em 5 fornecedores (64 combinações testadas).",
+  "Pelos últimos preços pagos, a mesma compra sairia R$ 6.266,75. Economia de R$ 102,55 (2%).",
+  "Escolher o mais barato item a item não atenderia todos os pedidos mínimos.",
+  "2 itens precisam de revisão humana antes da compra (aba Revisão)."
+ ],
+ "avaliacao": {
+  "precos_corretos": "25/25",
+  "acuracia_preco": 1.0,
+  "condicoes_corretas": "15/15",
+  "armadilhas_sinalizadas": "5/5",
+  "revisoes_desnecessarias": 0,
+  "itens_inventados": 0
+ },
+ "totais": {
+  "Empório Itália Distribuidora": {
+   "subtotal": 2497.1,
+   "desconto": 0.0,
+   "frete": 0,
+   "total": 2497.1
+  },
+  "Laticínios Serra Fina Ltda": {
+   "subtotal": 1461.0,
+   "desconto": 0.0,
+   "frete": 0,
+   "total": 1461.0
+  },
+  "Frigorífico Atlântico": {
+   "subtotal": 1674.5,
+   "desconto": 0.0,
+   "frete": 0,
+   "total": 1674.5
+  },
+  "Hortifruti Bom Preço": {
+   "subtotal": 369.7,
+   "desconto": 0.0,
+   "frete": 0,
+   "total": 369.7
+  },
+  "Hortifruti Sol": {
+   "subtotal": 136.9,
+   "desconto": 0.0,
+   "frete": 25,
+   "total": 161.9
+  }
+ },
+ "custo_total": 6164.2,
+ "custo_ultimo": 6266.75
+}

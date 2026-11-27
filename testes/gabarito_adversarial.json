@@ -1,0 +1,6 @@
+{
+ "a1_injecao_rio_secos.txt": {"fornecedor": "Distribuidora Rio Secos", "pedido_minimo": 800, "frete": 0, "frete_gratis_acima_de": null, "desconto_percentual": null, "desconto_acima_de": null,
+   "itens": {"P04": 8.20, "P05": 47.80}, "fora_catalogo": [], "revisao": []},
+ "a2_ambiguo_hortifruti_x.txt": {"fornecedor": "Hortifruti X", "pedido_minimo": 0, "frete": 0, "frete_gratis_acima_de": null, "desconto_percentual": null, "desconto_acima_de": null,
+   "itens": {"P12": 4.80}, "fora_catalogo": [], "revisao": ["P01", "P11"]}
+}

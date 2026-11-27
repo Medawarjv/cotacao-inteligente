@@ -1,0 +1,116 @@
+{
+ "chave": "8b3d5e79f2f91849",
+ "arquivo": "03_tabela_emporio_italia.xlsx",
+ "saida": {
+  "fornecedor": "Empório Itália Distribuidora",
+  "alertas": [],
+  "condicoes": {
+   "trechos": [
+    "Pedido mínimo R$ 1.500,00",
+    "Frete grátis",
+    "Pagamento 28 dias"
+   ],
+   "pedido_minimo": 1500,
+   "frete_valor": 0,
+   "frete_gratis_acima_de": null,
+   "desconto_percentual": null,
+   "desconto_acima_de": null,
+   "prazo_pagamento": "28 dias",
+   "validade": null,
+   "entrega": null
+  },
+  "itens": [
+   {
+    "texto_original": "Tomate pelado San Marzano lata | lata 2,5 kg | 39,9",
+    "codigo_catalogo": "P01",
+    "disponivel": true,
+    "preco": 39.9,
+    "preco_refere_a": "embalagem",
+    "embalagem": "lata 2,5 kg",
+    "quantidade_na_embalagem": 2.5,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": "Tomate pelado San Marzano = tomate pelado italiano."
+   },
+   {
+    "texto_original": "Farinha 00 Caputo pizzeria | saco 25 kg | 219",
+    "codigo_catalogo": "P04",
+    "disponivel": true,
+    "preco": 219,
+    "preco_refere_a": "embalagem",
+    "embalagem": "saco 25 kg",
+    "quantidade_na_embalagem": 25,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": "Farinha Caputo 00 = farinha de trigo tipo 00."
+   },
+   {
+    "texto_original": "Azeite extra virgem | lata 5 L | 249",
+    "codigo_catalogo": "P05",
+    "disponivel": true,
+    "preco": 249,
+    "preco_refere_a": "embalagem",
+    "embalagem": "lata 5 L",
+    "quantidade_na_embalagem": 5,
+    "unidade_da_quantidade": "L",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "Guanciale | kg | 152 | peça ~1,2 kg",
+    "codigo_catalogo": "P06",
+    "disponivel": true,
+    "preco": 152,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": "Preço por kg; peça vendida pesa aprox. 1,2 kg (informação do fornecedor, não altera o preço/kg)."
+   },
+   {
+    "texto_original": "Grana Padano | kg | 128",
+    "codigo_catalogo": "P03",
+    "disponivel": true,
+    "preco": 128,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": "Grana Padano = Parmesão Grana Padano."
+   },
+   {
+    "texto_original": "Mozzarella di bufala | kg | 7,9",
+    "codigo_catalogo": "P02",
+    "disponivel": true,
+    "preco": 7.9,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "baixa",
+    "observacao": "Preço de R$ 7,90/kg é muito baixo para muçarela de búfala (mercado costuma ser R$ 60-100/kg); possível erro de digitação, mas registrado como cotado."
+   },
+   {
+    "texto_original": "Água mineral s/ gás 500ml | fardo 12 un | 15,6",
+    "codigo_catalogo": "P18",
+    "disponivel": true,
+    "preco": 15.6,
+    "preco_refere_a": "embalagem",
+    "embalagem": "fardo 12 un",
+    "quantidade_na_embalagem": 12,
+    "unidade_da_quantidade": "un",
+    "confianca": "alta",
+    "observacao": ""
+   }
+  ]
+ },
+ "meta": {
+  "segundos": 19.9,
+  "custo_usd": 0.0308234,
+  "tokens_entrada": 4282,
+  "tokens_saida": 2332,
+  "motor": "claude-cli/sonnet"
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "chave": "168b3fd1994db4ea",
+ "arquivo": "01_whatsapp_hortifruti_bom_preco.txt",
+ "saida": {
+  "fornecedor": "Hortifruti Bom Preço",
+  "alertas": [],
+  "condicoes": {
+   "trechos": [
+    "pedido minimo 300 reais",
+    "entrego ter e sex",
+    "pix na entrega",
+    "preço vale até sexta"
+   ],
+   "pedido_minimo": 300,
+   "frete_valor": null,
+   "frete_gratis_acima_de": null,
+   "desconto_percentual": null,
+   "desconto_acima_de": null,
+   "prazo_pagamento": "pix na entrega",
+   "validade": "até sexta",
+   "entrega": "terça e sexta"
+  },
+  "itens": [
+   {
+    "texto_original": "rucula maço 3,20",
+    "codigo_catalogo": "P09",
+    "disponivel": true,
+    "preco": 3.2,
+    "preco_refere_a": "unidade",
+    "embalagem": "maço",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "maço",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "manjericao 3,80 o maço",
+    "codigo_catalogo": "P10",
+    "disponivel": true,
+    "preco": 3.8,
+    "preco_refere_a": "unidade",
+    "embalagem": "maço",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "maço",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "limao tahiti cx 20kg 98,00",
+    "codigo_catalogo": "P11",
+    "disponivel": true,
+    "preco": 98,
+    "preco_refere_a": "embalagem",
+    "embalagem": "caixa 20 kg",
+    "quantidade_na_embalagem": 20,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "cebola saco 20kg 89",
+    "codigo_catalogo": "P12",
+    "disponivel": true,
+    "preco": 89,
+    "preco_refere_a": "embalagem",
+    "embalagem": "saco 20 kg",
+    "quantidade_na_embalagem": 20,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "alho descascado pct 1kg 29,90",
+    "codigo_catalogo": "P13",
+    "disponivel": true,
+    "preco": 29.9,
+    "preco_refere_a": "embalagem",
+    "embalagem": "pacote 1 kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "batata lavada saco 25 kg 135",
+    "codigo_catalogo": "P17",
+    "disponivel": true,
+    "preco": 135,
+    "preco_refere_a": "embalagem",
+    "embalagem": "saco 25 kg",
+    "quantidade_na_embalagem": 25,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "tomate cereja bandeja 500g 7,50",
+    "codigo_catalogo": null,
+    "disponivel": true,
+    "preco": 7.5,
+    "preco_refere_a": "embalagem",
+    "embalagem": "bandeja 500 g",
+    "quantidade_na_embalagem": 500,
+    "unidade_da_quantidade": "g",
+    "confianca": "media",
+    "observacao": "Tomate cereja não consta no catálogo (P01 é tomate pelado italiano/enlatado, produto diferente); registrado como item fora do catálogo."
+   }
+  ]
+ },
+ "meta": {
+  "segundos": 16.5,
+  "custo_usd": 0.0261544,
+  "tokens_entrada": 4287,
+  "tokens_saida": 1861,
+  "motor": "claude-cli/sonnet"
+ }
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+cookies/
+credenciais/
+*.log
+saida/_versoes_antigas/
+.claude/

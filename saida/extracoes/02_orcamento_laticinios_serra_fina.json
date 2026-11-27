@@ -1,0 +1,94 @@
+{
+ "chave": "1390f53a65163b9f",
+ "arquivo": "02_orcamento_laticinios_serra_fina.pdf",
+ "saida": {
+  "fornecedor": "LATICÍNIOS SERRA FINA LTDA",
+  "alertas": [],
+  "condicoes": {
+   "trechos": [
+    "pedido mínimo de R$ 500,00",
+    "Frete de R$ 40,00 para pedidos abaixo de R$ 1.000,00",
+    "Pagamento: boleto 21 dias",
+    "Entrega em até 2 dias úteis",
+    "Validade: 7 dias"
+   ],
+   "pedido_minimo": 500,
+   "frete_valor": 40,
+   "frete_gratis_acima_de": 1000,
+   "desconto_percentual": null,
+   "desconto_acima_de": null,
+   "prazo_pagamento": "boleto 21 dias",
+   "validade": "7 dias",
+   "entrega": "em até 2 dias úteis"
+  },
+  "itens": [
+   {
+    "texto_original": "1120 Mussarela de búfala bolinha un 125 g R$ 10,40",
+    "codigo_catalogo": "P02",
+    "disponivel": true,
+    "preco": 10.4,
+    "preco_refere_a": "embalagem",
+    "embalagem": "bolinha 125 g",
+    "quantidade_na_embalagem": 125,
+    "unidade_da_quantidade": "g",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "1301 Queijo Grana Padano DOP (peça aprox. 4,5 kg) kg R$ 139,00",
+    "codigo_catalogo": "P03",
+    "disponivel": true,
+    "preco": 139,
+    "preco_refere_a": "unidade",
+    "embalagem": "kg, peça aprox. 4,5 kg",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "kg",
+    "confianca": "alta",
+    "observacao": "Preço por kg; peça inteira pesa aprox. 4,5 kg"
+   },
+   {
+    "texto_original": "2010 Creme de leite fresco 35% gordura garrafa 1 L R$ 22,90",
+    "codigo_catalogo": "P14",
+    "disponivel": true,
+    "preco": 22.9,
+    "preco_refere_a": "embalagem",
+    "embalagem": "garrafa 1 L",
+    "quantidade_na_embalagem": 1,
+    "unidade_da_quantidade": "L",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "2205 Manteiga sem sal tablete 200 g R$ 12,50",
+    "codigo_catalogo": "P16",
+    "disponivel": true,
+    "preco": 12.5,
+    "preco_refere_a": "embalagem",
+    "embalagem": "tablete 200 g",
+    "quantidade_na_embalagem": 200,
+    "unidade_da_quantidade": "g",
+    "confianca": "alta",
+    "observacao": ""
+   },
+   {
+    "texto_original": "3001 Ovos brancos tipo extra caixa 30 dúzias R$ 279,00",
+    "codigo_catalogo": "P15",
+    "disponivel": true,
+    "preco": 279,
+    "preco_refere_a": "embalagem",
+    "embalagem": "caixa 30 dúzias",
+    "quantidade_na_embalagem": 30,
+    "unidade_da_quantidade": "dúzia",
+    "confianca": "alta",
+    "observacao": ""
+   }
+  ]
+ },
+ "meta": {
+  "segundos": 15.9,
+  "custo_usd": 0.0248404,
+  "tokens_entrada": 4419,
+  "tokens_saida": 1667,
+  "motor": "claude-cli/sonnet"
+ }
+}
